@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "573473519208",
+    "project_id": "fir-authenticationinsertex",
+    "storage_bucket": "fir-authenticationinsertex.appspot.com",
+    "firebase_url": "https://fir-authenticationinsertex-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573473519208:android:4f3718ba4027b59042addd",
+        "android_client_info": {
+          "package_name": "com.jsstech.firebaseauthenticationinsertex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573473519208-j3c5iaa84a9khlbnivcs8647721b7p05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuoov8FImxumxoNGX67e9tzBppAl9gXFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573473519208-j3c5iaa84a9khlbnivcs8647721b7p05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
